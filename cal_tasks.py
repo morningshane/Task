@@ -27,7 +27,7 @@
  ##
 
 import epd7in5
-import Image
+import PIL.Image
 import ImageDraw
 import ImageFont
 import calendar
