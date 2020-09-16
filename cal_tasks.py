@@ -28,8 +28,8 @@
 
 import epd7in5
 import PIL.Image
-import ImageDraw
-import ImageFont
+import PIL.ImageDraw
+import PIL.ImageFont
 import calendar
 import time
 import requests
